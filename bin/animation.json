@@ -1,0 +1,48 @@
+{
+	"animations": [
+		{
+			"registry": "basic_zombie",
+			"sprites": [
+				{
+					"name": "walk",
+					"path": "/entities/basic_zombie.png",
+					"count": 10,
+					"x": 0,
+					"y": 0,
+					"widths": [140, 140, 140, 140, 140, 140, 140, 140, 140, 140],
+					"heights": [192, 192, 192, 192, 192, 192, 192, 192, 192, 192],
+					"offsetX": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+					"offsetY": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+				},
+				{
+					"name": "attack",
+					"path": "/entities/basic_zombie.png",
+					"count": 7,
+					"x": 1540,
+					"y": 0,
+					"widths": [140, 140, 140, 140, 140, 140, 140],
+					"heights": [192, 192, 192, 192, 192, 192, 192],
+					"offsetX": [0, 0, 0, 0, 0, 0, 0],
+					"offsetY": [0, 0, 0, 0, 0, 0, 0]
+				}
+				
+			]
+		},
+		{
+			"registry": "",
+			"name": "",
+			"path": "",
+			"count": 0,
+			"x": 0,
+			"y": 0,
+			"widths": [
+			],
+			"heights": [
+			],
+			"offsetX": [
+			],
+			"offsetY": [
+			]
+		}
+	]
+}

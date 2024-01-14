@@ -1,0 +1,215 @@
+{
+    "peashooter": {
+        "default": {
+            "count": 8,
+            "x": 0,
+            "y": 0,
+            "widths": [128, 128, 128, 128, 128, 128, 128, 128],
+            "heights": [128, 128, 128, 128, 128, 128, 128, 128],
+            "offsetX": [-30, -30, -30, -30, -30, -30, -30, -30],
+            "offsetY": [-30, -30, -30, -30, -30, -30, -30, -30],
+            "nextAnimation": "default"
+        },
+        "attack": {
+            "count": 3,
+            "x": 0,
+            "y": 128,
+            "widths": [128, 128, 128],
+            "heights": [128, 128, 128],
+            "offsetX": [-30, -30, -30],
+            "offsetY": [-30, -30, -30],
+            "nextAnimation": "default"
+        },
+        "card": {
+            "count": 1,
+            "x": 640,
+            "y": 144,
+            "widths": [96],
+            "heights": [88],
+            "offsetX": [0],
+            "offsetY": [0],
+            "nextAnimation": "default"
+        },
+        "card_cooldown": {
+            "count": 1,
+            "x": 736,
+            "y": 144,
+            "widths": [96],
+            "heights": [88],
+            "offsetX": [0],
+            "offsetY": [0],
+            "nextAnimation": "default"
+        }
+    },
+    "cabbage_pult": {
+        "default": {
+            "count": 6,
+            "x": 0,
+            "y": 0,
+            "widths": [180, 180, 180, 180, 180, 180],
+            "heights": [200, 200, 200, 200, 200, 200],
+            "offsetX": [-104, -104, -104, -104, -104, -104],
+            "offsetY": [-78, -78, -78, -78, -78, -78],
+            "nextAnimation": "default"
+        },
+        "attack": {
+            "count": 3,
+            "x": 0,
+            "y": 200,
+            "widths": [180, 180, 180],
+            "heights": [200, 200, 200],
+            "offsetX": [-104, -104, -104],
+            "offsetY": [-78, -78, -78],
+            "nextAnimation": "backswing"
+        },
+        "backswing": {
+            "count": 5,
+            "x": 540,
+            "y": 200,
+            "widths": [180, 180, 180, 180, 180],
+            "heights": [200, 200, 200, 200, 200],
+            "offsetX": [-104, -100, -104, -104, -104],
+            "offsetY": [-78, -78, -78, -78, -78],
+            "nextAnimation": "default"
+        },
+        "card": {
+            "count": 1,
+            "x": 1396,
+            "y": 12,
+            "widths": [96],
+            "heights": [88],
+            "offsetX": [0],
+            "offsetY": [0],
+            "nextAnimation": "default"
+        },
+        "card_cooldown": {
+            "count": 1,
+            "x": 1496,
+            "y": 12,
+            "widths": [96],
+            "heights": [88],
+            "offsetX": [0],
+            "offsetY": [0],
+            "nextAnimation": "default"
+        }
+    },
+    "sunflower": {
+        "default": {
+            "count": 7,
+            "x": 0,
+            "y": 0,
+            "widths": [144, 144, 144, 144, 144, 144, 144],
+            "heights": [144, 144, 144, 144, 144, 144, 144],
+            "offsetX": [-30, -30, -30, -30, -30, -30, -30],
+            "offsetY": [-30, -30, -30, -30, -30, -30, -30],
+            "nextAnimation": "default"
+        },
+        "attack": {
+            "count": 1,
+            "x": 0,
+            "y": 144,
+            "widths": [144],
+            "heights": [144],
+            "offsetX": [-30],
+            "offsetY": [-5],
+            "nextAnimation": "default"
+        },
+        "card": {
+            "count": 1,
+            "x": 144,
+            "y": 144,
+            "widths": [104],
+            "heights": [88],
+            "offsetX": [0],
+            "offsetY": [0],
+            "nextAnimation": "default"
+        },
+        "card_cooldown": {
+            "count": 1,
+            "x": 256,
+            "y": 144,
+            "widths": [104],
+            "heights": [88],
+            "offsetX": [0],
+            "offsetY": [0],
+            "nextAnimation": "default"
+        }
+    },
+    "shovel": {
+        "default": {
+            "count": 1,
+            "x": 0,
+            "y": 0,
+            "widths": [71],
+            "heights": [72],
+            "offsetX": [0],
+            "offsetY": [0],
+            "nextAnimation": "default"
+        },
+        "card": {
+            "count": 1,
+            "x": 71,
+            "y": 0,
+            "widths": [71],
+            "heights": [72],
+            "offsetX": [0],
+            "offsetY": [0],
+            "nextAnimation": "default"
+        },
+        "card_cooldown": {
+            "count": 1,
+            "x": 71,
+            "y": 0,
+            "widths": [71],
+            "heights": [72],
+            "offsetX": [0],
+            "offsetY": [0],
+            "nextAnimation": "default"
+        }
+    },
+    "basic_zombie": {
+        "default": {
+            "count": 9,
+            "x": 0,
+            "y": 0,
+            "widths": [140, 140, 140, 140, 140, 140, 140, 140, 140],
+            "heights": [192, 192, 192, 192, 192, 192, 192, 192, 192],
+            "offsetX": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+            "offsetY": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+            "nextAnimation": "default"
+        },
+        "attack": {
+            "count": 7,
+            "x": 1540,
+            "y": 0,
+            "widths": [140, 140, 140, 140, 140, 140, 140],
+            "heights": [192, 192, 192, 192, 192, 192, 192],
+            "offsetX": [0, 0, 0, 0, 0, 0, 0],
+            "offsetY": [0, 0, 0, 0, 0, 0, 0],
+            "nextAnimation": "default"
+        },
+        "injured": {
+            "count": 9,
+            "x": 0,
+            "y": 192,
+            "widths": [116, 112, 116, 112, 112, 88, 88, 108, 88],
+            "heights": [192, 192, 192, 192, 192, 192, 192, 192, 192],
+            "offsetX": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+            "offsetY": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+            "nextAnimation": "injured"
+        }
+        
+    },
+    "sun": {
+        "default": {
+            "count": 2,
+            "x": 0,
+            "y": 0,
+            "widths": [104, 104],
+            "heights": [104, 104],
+            "offsetX": [0, 0],
+            "offsetY": [0, 0],
+            "nextAnimation": "default"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+	"pea": {
+        "default": {
+            "count": 1,
+            "x": 12,
+            "y": 12,
+            "widths": [40],
+            "heights": [40],
+            "offsetX": [0],
+            "offsetY": [0],
+            "nextAnimation": "default"
+        },
+        "explode": {
+            "count": 3,
+            "x": 0,
+            "y": 0,
+            "widths": [64, 64, 64],
+            "heights": [64, 64, 64],
+            "offsetX": [0, 0, 0],
+            "offsetY": [0, 0, 0],
+            "nextAnimation": "default"
+        }
+    },
+    "cabbage": {
+        "default": {
+            "count": 1,
+            "x": 0,
+            "y": 0,
+            "widths": [48],
+            "heights": [48],
+            "offsetX": [0],
+            "offsetY": [0],
+            "nextAnimation": "default"
+        },
+        "explode": {
+            "count": 1,
+            "x": 0,
+            "y": 0,
+            "widths": [48],
+            "heights": [48],
+            "offsetX": [0],
+            "offsetY": [0],
+            "nextAnimation": "default"
+        }
+    },
+    "mower": {
+        "default": {
+            "count": 1,
+            "x": 0,
+            "y": 0,
+            "widths": [96],
+            "heights": [72],
+            "offsetX": [0],
+            "offsetY": [0],
+            "nextAnimation": "default"
+        },
+        "explode": {
+            "count": 1,
+            "x": 0,
+            "y": 0,
+            "widths": [96],
+            "heights": [72],
+            "offsetX": [0],
+            "offsetY": [0],
+            "nextAnimation": "default"
+        }
+    }
+    
+}
